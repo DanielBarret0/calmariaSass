@@ -1,0 +1,15 @@
+
+// Base
+
+@use '../styles/abstract/root';
+@use '../styles/abstract/mixins';
+
+// Modulos
+
+@use '../styles/components/header';
+@use '../styles/components/nosso-espaco';
+@use '../styles/components/servicos';
+@use '../styles/components/descontos';
+@use '../styles/components/contatos';
+@use '../styles/components/footer';
+

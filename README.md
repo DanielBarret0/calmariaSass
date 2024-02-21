@@ -33,16 +33,23 @@ A estrutura do projeto segue os princípios de organização recomendados para p
 # Capturas de Tela
 Aqui estão algumas capturas de tela do projeto:
 
-![Imagem do projeto](imagens/exemplo.png)
+<img src="https://github.com/DanielBarret0/calmariaSass/blob/main/assets/img/print-tela-inteira.png">
 
 # Conclusão
 Este projeto proporcionou uma oportunidade valiosa para explorar e praticar os recursos do SASS. O uso de aninhamento, partials, extend, mixins e variáveis melhorou significativamente a eficiência e a organização do código CSS, proporcionando uma base sólida para projetos futuros.
 
 # 🖼️ Banner do VitrineDev
 <div align="center">
-<img src="#vitrinedev">
+<img src="https://github.com/DanielBarret0/calmariaSass/blob/main/assets/img/print-vitrine-dev.png#vitrinedev">
 </div>
 
 # 🙋‍♂️ Autor
 
+José Daniel Aragão Barreto
+
+Acesse o meu [LinkedIn](https://www.linkedin.com/in/daniel-barreto-1b763216a/)
+
+# :page_facing_up: Licença
+
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/DanielBarret0/codeChella/blob/main/LICENSE.md) 
+
